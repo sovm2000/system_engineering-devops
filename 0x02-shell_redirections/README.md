@@ -1,1 +1,1 @@
-This is a readme file for week 4.
+SHELL REDIRECTIONS
